@@ -26,28 +26,28 @@ Here are some ideas to get you started:
   
   ## 🧱 Tech Stack
   ### 주요 언어
-  <!--C++-->
-  <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <!--Python-->
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <!--C#-->
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/>
-  <!--Java-->
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <!--.NET-->
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <!--C-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <!--C#-->
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=C-sharp&logoColor=white"/>
+  <!--C++-->
+  <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <!--.NET-->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!--Python-->
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <!--JavaScript-->
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!--Java-->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
 
   ### 운영체제
+  <!--윈도우-->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <!--리눅스-->
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <!--칼리리눅스-->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <!--윈도우-->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
   ### 사용 툴
   <!--IntelliJ IDEA-->
@@ -65,12 +65,12 @@ Here are some ideas to get you started:
   <br/>
 
   ### 데이터 베이스
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Oracle-->
-  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--Oracle-->
+  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <!--Amazon AWS-->
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <br/>
 
   ### 백엔드 기술
