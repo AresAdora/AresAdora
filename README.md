@@ -37,13 +37,23 @@ Here are some ideas to get you started:
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+  ### 운영체제
+  <!--리눅스-->
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <!--칼리리눅스-->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <!--윈도우-->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
   ### 사용 툴
   <!--IntelliJ IDEA-->
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <!--Visual Studio-->
   <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/>
-  <!--Git Hub-->
+  <!--Git-->
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+  <!--Git Hub-->
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br/>
 
   ### 데이터 베이스
@@ -60,4 +70,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <!--SPRING BOOT-->
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <!--Gradle-->
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <!-Apache Server->
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
