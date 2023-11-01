@@ -36,6 +36,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <!--.NET-->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!--C-->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
   ### 운영체제
   <!--리눅스-->
@@ -48,8 +52,12 @@ Here are some ideas to get you started:
   ### 사용 툴
   <!--IntelliJ IDEA-->
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+  <!--Eclipse-->
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
   <!--Visual Studio-->
   <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/>
+  <!--Visual Studio Code-->
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  
   <!--Git-->
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <!--Git Hub-->
