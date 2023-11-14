@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div>
   
   ## 🧱 Tech Stack
-  ### 주요 언어
+  ### 사용가능 언어
   <!--C-->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <!--C#-->
